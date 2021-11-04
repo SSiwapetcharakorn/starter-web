@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Suphakorn S. -- <role> -- <twitter>
 
 # THANKS
 
